@@ -4,7 +4,7 @@
 /*  BY: Jeppe Stjernholm Schildt & Alexander Stæhr Johansen
 *   STUDY: Computer Engineering, 4th semester
 *   COURSE: Computer Networking
-*   DATE: 12-04-2021
+*   DATE: 28-04-2021
 *   DEADLINE: 14-04-2021
 *
 *   INSPIRATION: https://www.geeksforgeeks.org/udp-server-client-implementation-c/
