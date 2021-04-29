@@ -6,3 +6,5 @@ In your terminal of your choice, please write "gcc -o server <PROTO>server.c" in
   
 TO RUN: 
 Please open two terminals. In one of them, write "./server" and in the other, write "./client". You will then be prompted to input an IP and a port. The format is "127.0.0.1" and "8080", respectively. 
+
+REPORT: https://www.overleaf.com/read/mgcnrjxqvqjw
