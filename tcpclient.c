@@ -7,7 +7,7 @@
 *   DATE: 28-04-2021
 *   DEADLINE: 14-04-2021
 *
-*   INSPIRATION: https://www.geeksforgeeks.org/udp-server-client-implementation-c/
+*   INSPIRATION: https://www.geeksforgeeks.org/tcp-server-client-implementation-in-c/
 */
 
 /* Standard libraries */
